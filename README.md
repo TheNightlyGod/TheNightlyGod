@@ -1,3 +1,7 @@
+<p align="center">
+   <img alt="Banner" src="banner.png">
+</p>
+
 # Hi, I'm Luki! 👋
 
 - **Programming Languages**: Python, C++, C#, JavaScript, HTML and Assembly
