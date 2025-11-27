@@ -1,5 +1,5 @@
 <p align="center">
-   <img alt="Banner" src="banner3.png">
+   <img alt="Banner" src="mcbanner.png">
 </p>
 
 # Hi, I'm Luki! 👋
