@@ -1,5 +1,5 @@
 <p align="center">
-   <img alt="Banner" src="leto.png">
+   <img alt="Banner" src="leto26banner.png">
 </p>
 
 # Hi, I'm Luki! 👋
