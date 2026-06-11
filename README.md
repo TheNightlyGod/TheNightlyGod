@@ -1,5 +1,5 @@
 <p align="center">
-   <img alt="Banner" src="bannervesna.png">
+   <img alt="Banner" src="leto.png">
 </p>
 
 # Hi, I'm Luki! 👋
