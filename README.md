@@ -1,5 +1,5 @@
 <p align="center">
-   <img alt="Banner" src="leto26banner.png">
+   <img alt="Banner" src="oceni26banner.png">
 </p>
 
 **About Me**
